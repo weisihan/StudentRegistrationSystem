@@ -1,0 +1,3 @@
+Name,CourseID,Status,Time,Location,Capacity,Prerequisites
+Intro to Python,CS-UY 1114,open,MoWe 11:00-12:00,JAB 474,200
+Data Structure,CS-UY 1134,open,TuTh 14:00-15:00,JAB 475,200,CS-UY1114
